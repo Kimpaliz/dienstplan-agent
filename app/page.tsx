@@ -1,4 +1,6 @@
-// Einfache Dienstplan-Webseite mit React (Frontend) und Passwortschutz über Roles
+"use client";
+
+/ Einfache Dienstplan-Webseite mit React (Frontend) und Passwortschutz über Roles
 // Hinweis: Dies ist nur das Frontend. Für echte Sicherheit brauchst du ein Backend mit Authentifizierung (z. B. mit JWT + Node.js oder Firebase).
 
 import { useState } from 'react';
